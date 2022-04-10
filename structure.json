@@ -1,0 +1,43 @@
+[
+  {
+    "id": "set",
+    "language": "en-gb",
+    "lexicalEntries": [
+      {
+        "entries": [
+          {
+            "homographNumber": "100",
+            "senses": [
+              {
+                "definitions": [
+                  "put, lay, or stand (something) in a specified place or position"
+                ],
+                "id": "m_en_gbus0928250.010",
+                "subsenses": [
+                  {
+                    "definitions": [
+                      "be situated or fixed in a specified place or position"
+                    ],
+                    "id": "m_en_gbus0928250.016"
+                  },
+                  {}
+                ]
+              }
+            ]
+          },
+          {}
+        ],
+        "language": "en-gb",
+        "lexicalCategory": {
+          "id": "verb",
+          "text": "Verb"
+        },
+        "text": "set"
+      },
+      {}
+    ],
+    "type": "headword",
+    "word": "set"
+  },
+  {}
+]

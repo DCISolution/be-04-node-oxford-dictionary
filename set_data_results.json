@@ -1,0 +1,548 @@
+[
+  {
+    "id": "set",
+    "language": "en-gb",
+    "lexicalEntries": [
+      {
+        "entries": [
+          {
+            "homographNumber": "100",
+            "senses": [
+              {
+                "definitions": [
+                  "put, lay, or stand (something) in a specified place or position"
+                ],
+                "id": "m_en_gbus0928250.010",
+                "subsenses": [
+                  {
+                    "definitions": [
+                      "be situated or fixed in a specified place or position"
+                    ],
+                    "id": "m_en_gbus0928250.016"
+                  },
+                  {
+                    "definitions": [
+                      "represent (a story, play, film, or scene) as happening at a specified time or in a specified place"
+                    ],
+                    "id": "m_en_gbus0928250.018"
+                  },
+                  {
+                    "definitions": [
+                      "mount a precious stone in (something, typically a piece of jewellery)"
+                    ],
+                    "id": "m_en_gbus0928250.019"
+                  },
+                  {
+                    "definitions": [
+                      "mount (a precious stone) in something"
+                    ],
+                    "id": "m_en_gbus0928250.020"
+                  },
+                  {
+                    "definitions": [
+                      "arrange (type) as required"
+                    ],
+                    "id": "m_en_gbus0928250.021"
+                  },
+                  {
+                    "definitions": [
+                      "arrange the type for (a piece of text)"
+                    ],
+                    "id": "m_en_gbus0928250.022"
+                  },
+                  {
+                    "definitions": [
+                      "prepare (a table) for a meal by placing cutlery, crockery, etc. on it in their proper places"
+                    ],
+                    "id": "m_en_gbus0928250.023"
+                  },
+                  {
+                    "definitions": [
+                      "move (a bell) so that it rests in an inverted position ready for ringing"
+                    ],
+                    "id": "m_en_gbus0928250.026"
+                  },
+                  {
+                    "definitions": [
+                      "cause (a hen) to sit on eggs"
+                    ],
+                    "id": "m_en_gbus0928250.028"
+                  },
+                  {
+                    "definitions": [
+                      "put (a seed or plant) in the ground to grow"
+                    ],
+                    "id": "m_en_gbus0928250.029"
+                  },
+                  {
+                    "definitions": [
+                      "put (a sail) up in position to catch the wind"
+                    ],
+                    "id": "m_en_gbus0928250.031"
+                  }
+                ]
+              },
+              {
+                "definitions": [
+                  "put or bring into a specified state"
+                ],
+                "id": "m_en_gbus0928250.033",
+                "subsenses": [
+                  {
+                    "definitions": [
+                      "cause (someone or something) to start doing something"
+                    ],
+                    "id": "m_en_gbus0928250.034"
+                  },
+                  {
+                    "definitions": [
+                      "instruct (someone) to do something"
+                    ],
+                    "id": "m_en_gbus0928250.035"
+                  },
+                  {
+                    "definitions": [
+                      "give someone (a task or test) to do"
+                    ],
+                    "id": "m_en_gbus0928250.036"
+                  },
+                  {
+                    "definitions": [
+                      "establish as (an example) for others to follow, copy, or try to achieve"
+                    ],
+                    "id": "m_en_gbus0928250.038"
+                  },
+                  {
+                    "definitions": [
+                      "establish (a record)"
+                    ],
+                    "id": "m_en_gbus0928250.039"
+                  },
+                  {
+                    "definitions": [
+                      "decide on and announce"
+                    ],
+                    "id": "m_en_gbus0928250.040"
+                  },
+                  {
+                    "definitions": [
+                      "fix (a price, value, or limit) on something"
+                    ],
+                    "id": "m_en_gbus0928250.041"
+                  }
+                ]
+              },
+              {
+                "definitions": [
+                  "adjust (a clock or watch), typically to show the right time"
+                ],
+                "id": "m_en_gbus0928250.043",
+                "subsenses": [
+                  {
+                    "definitions": [
+                      "adjust (an alarm clock) to sound at the required time"
+                    ],
+                    "id": "m_en_gbus0928250.044"
+                  },
+                  {
+                    "definitions": [
+                      "adjust (a device) so that it performs a particular operation"
+                    ],
+                    "id": "m_en_gbus0928250.045"
+                  },
+                  {
+                    "definitions": [
+                      "cause (a binary device) to enter the state representing the numeral 1."
+                    ],
+                    "id": "m_en_gbus0928250.046"
+                  }
+                ]
+              },
+              {
+                "definitions": [
+                  "harden into a solid or semi-solid state"
+                ],
+                "id": "m_en_gbus0928250.048",
+                "subsenses": [
+                  {
+                    "definitions": [
+                      "arrange (the hair) while damp so that it dries in the required style"
+                    ],
+                    "id": "m_en_gbus0928250.049"
+                  },
+                  {
+                    "definitions": [
+                      "put parts of (a broken or dislocated bone or limb) into the correct position for healing"
+                    ],
+                    "id": "m_en_gbus0928250.050"
+                  },
+                  {
+                    "definitions": [
+                      "(of a bone) be restored to its normal condition by knitting together again after being broken"
+                    ],
+                    "id": "m_en_gbus0928250.051"
+                  },
+                  {
+                    "definitions": [
+                      "(with reference to a person's face) assume or cause to assume a fixed or rigid expression"
+                    ],
+                    "id": "m_en_gbus0928250.052"
+                  },
+                  {
+                    "definitions": [
+                      "(of a hunting dog) adopt a rigid attitude indicating the presence of game."
+                    ],
+                    "id": "m_en_gbus0928250.054"
+                  }
+                ]
+              },
+              {
+                "definitions": [
+                  "(of the sun, moon, or another celestial body) appear to move towards and below the earth's horizon as the earth rotates"
+                ],
+                "id": "m_en_gbus0928250.056"
+              },
+              {
+                "definitions": [
+                  "(of a tide or current) take or have a specified direction or course"
+                ],
+                "id": "m_en_gbus0928250.058"
+              },
+              {
+                "definitions": [
+                  "start (a fire)"
+                ],
+                "id": "m_en_gbus0928250.060"
+              },
+              {
+                "definitions": [
+                  "(of blossom or a tree) form into or produce (fruit)"
+                ],
+                "id": "m_en_gbus0928250.062",
+                "subsenses": [
+                  {
+                    "definitions": [
+                      "(of fruit) develop from blossom"
+                    ],
+                    "id": "m_en_gbus0928250.063"
+                  },
+                  {
+                    "definitions": [
+                      "(of a plant) produce (seed)"
+                    ],
+                    "id": "m_en_gbus0928250.064"
+                  }
+                ]
+              },
+              {
+                "definitions": [
+                  "sit"
+                ],
+                "id": "m_en_gbus0928250.066"
+              }
+            ]
+          }
+        ],
+        "language": "en-gb",
+        "lexicalCategory": {
+          "id": "verb",
+          "text": "Verb"
+        },
+        "text": "set"
+      }
+    ],
+    "type": "headword",
+    "word": "set"
+  },
+  {
+    "id": "set",
+    "language": "en-gb",
+    "lexicalEntries": [
+      {
+        "entries": [
+          {
+            "homographNumber": "200",
+            "senses": [
+              {
+                "definitions": [
+                  "a group or collection of things that belong together or resemble one another or are usually found together"
+                ],
+                "id": "m_en_gbus0928260.007",
+                "subsenses": [
+                  {
+                    "definitions": [
+                      "a collection of implements, containers, or other objects customarily used together"
+                    ],
+                    "id": "m_en_gbus0928260.010"
+                  },
+                  {
+                    "definitions": [
+                      "a group of people with common interests or occupations or of similar social status"
+                    ],
+                    "id": "m_en_gbus0928260.011"
+                  },
+                  {
+                    "definitions": [
+                      "a group of pupils or students of the same average ability in a particular subject who are taught together"
+                    ],
+                    "id": "m_en_gbus0928260.012"
+                  },
+                  {
+                    "definitions": [
+                      "(in tennis, darts, and other games) a group of games counting as a unit towards a match"
+                    ],
+                    "id": "m_en_gbus0928260.013"
+                  },
+                  {
+                    "definitions": [
+                      "(in jazz or popular music) a sequence of songs or pieces performed together and constituting or forming part of a live show or recording"
+                    ],
+                    "id": "m_en_gbus0928260.014"
+                  },
+                  {
+                    "definitions": [
+                      "a group of people making up the required number for a square dance or similar country dance."
+                    ],
+                    "id": "m_en_gbus0928260.015"
+                  },
+                  {
+                    "definitions": [
+                      "a fixed number of repetitions of a particular bodybuilding exercise"
+                    ],
+                    "id": "m_en_gbus0928260.016"
+                  },
+                  {
+                    "definitions": [
+                      "a collection of distinct entities regarded as a unit, being either individually specified or (more usually) satisfying specified conditions"
+                    ],
+                    "id": "m_en_gbus0928260.017"
+                  }
+                ]
+              },
+              {
+                "definitions": [
+                  "the way in which something is set, disposed, or positioned"
+                ],
+                "id": "m_en_gbus0928260.019",
+                "subsenses": [
+                  {
+                    "definitions": [
+                      "the posture or attitude of a part of the body, typically in relation to the impression this gives of a person's feelings or intentions"
+                    ],
+                    "id": "m_en_gbus0928260.021"
+                  },
+                  {
+                    "definitions": [
+                      "a grudge"
+                    ],
+                    "id": "m_en_gbus0928260.023"
+                  },
+                  {
+                    "definitions": [
+                      "the flow of a current or tide in a particular direction"
+                    ],
+                    "id": "m_en_gbus0928260.024"
+                  },
+                  {
+                    "definitions": [
+                      "the inverted position of a bell when it is ready for ringing."
+                    ],
+                    "id": "m_en_gbus0928260.025"
+                  },
+                  {
+                    "definitions": [
+                      "a setter's pointing in the presence of game."
+                    ],
+                    "id": "m_en_gbus0928260.026"
+                  },
+                  {
+                    "definitions": [
+                      "the inclination of the teeth of a saw in alternate directions."
+                    ],
+                    "id": "m_en_gbus0928260.030"
+                  },
+                  {
+                    "definitions": [
+                      "a warp or bend in wood, metal, or another material caused by continued strain or pressure."
+                    ],
+                    "id": "m_en_gbus0928260.031"
+                  }
+                ]
+              },
+              {
+                "definitions": [
+                  "a radio or television receiver"
+                ],
+                "id": "m_en_gbus0928260.033"
+              },
+              {
+                "definitions": [
+                  "a collection of scenery, stage furniture, and other articles used for a particular scene in a play or film."
+                ],
+                "id": "m_en_gbus0928260.035",
+                "subsenses": [
+                  {
+                    "definitions": [
+                      "the place or area in which filming is taking place or a play is performed"
+                    ],
+                    "id": "m_en_gbus0928260.036"
+                  }
+                ]
+              },
+              {
+                "definitions": [
+                  "an arrangement of the hair when damp so that it dries in the required style"
+                ],
+                "id": "m_en_gbus0928260.038"
+              },
+              {
+                "definitions": [
+                  "a cutting, young plant, or bulb used in the propagation of new plants."
+                ],
+                "id": "m_en_gbus0928260.040",
+                "subsenses": [
+                  {
+                    "definitions": [
+                      "a young fruit that has just formed."
+                    ],
+                    "id": "m_en_gbus0928260.041"
+                  }
+                ]
+              },
+              {
+                "definitions": [
+                  "the last coat of plaster on a wall."
+                ],
+                "id": "m_en_gbus0928260.043"
+              },
+              {
+                "definitions": [
+                  "the amount of spacing in type controlling the distance between letters."
+                ],
+                "id": "m_en_gbus0928260.045",
+                "subsenses": [
+                  {
+                    "definitions": [
+                      "the width of a piece of type."
+                    ],
+                    "id": "m_en_gbus0928260.046"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "language": "en-gb",
+        "lexicalCategory": {
+          "id": "noun",
+          "text": "Noun"
+        },
+        "text": "set"
+      },
+      {
+        "entries": [
+          {
+            "homographNumber": "201",
+            "senses": [
+              {
+                "definitions": [
+                  "group (pupils or students) in sets according to ability."
+                ],
+                "id": "m_en_gbus0928260.052"
+              }
+            ]
+          }
+        ],
+        "language": "en-gb",
+        "lexicalCategory": {
+          "id": "verb",
+          "text": "Verb"
+        },
+        "text": "set"
+      }
+    ],
+    "type": "headword",
+    "word": "set"
+  },
+  {
+    "id": "set",
+    "language": "en-gb",
+    "lexicalEntries": [
+      {
+        "entries": [
+          {
+            "homographNumber": "300",
+            "senses": [
+              {
+                "definitions": [
+                  "fixed or arranged in advance"
+                ],
+                "id": "m_en_gbus0928270.006",
+                "subsenses": [
+                  {
+                    "definitions": [
+                      "(of a view or habit) unlikely to change"
+                    ],
+                    "id": "m_en_gbus0928270.008"
+                  },
+                  {
+                    "definitions": [
+                      "(of a person's expression) held for an unnaturally long time without changing, typically as a reflection of determination"
+                    ],
+                    "id": "m_en_gbus0928270.009"
+                  },
+                  {
+                    "definitions": [
+                      "(of a meal or menu in a restaurant) offered at a fixed price with a limited choice of dishes"
+                    ],
+                    "id": "m_en_gbus0928270.010"
+                  },
+                  {
+                    "definitions": [
+                      "(of a book) prescribed for study as part of a particular course or for an examination"
+                    ],
+                    "id": "m_en_gbus0928270.011"
+                  },
+                  {
+                    "definitions": [
+                      "having a conventional or predetermined wording; formulaic"
+                    ],
+                    "id": "m_en_gbus0928270.012"
+                  }
+                ]
+              },
+              {
+                "definitions": [
+                  "ready, prepared, or likely to do something"
+                ],
+                "id": "m_en_gbus0928270.014",
+                "subsenses": [
+                  {
+                    "definitions": [
+                      "firmly opposed to"
+                    ],
+                    "id": "m_en_gbus0928270.015"
+                  },
+                  {
+                    "definitions": [
+                      "determined to do (something)"
+                    ],
+                    "id": "m_en_gbus0928270.016"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "language": "en-gb",
+        "lexicalCategory": {
+          "id": "adjective",
+          "text": "Adjective"
+        },
+        "text": "set"
+      }
+    ],
+    "type": "headword",
+    "word": "set"
+  }
+]

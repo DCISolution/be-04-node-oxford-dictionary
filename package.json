@@ -1,0 +1,24 @@
+{
+  "name": "be-04-node-oxford-dictionary",
+  "version": "1.0.0",
+  "description": "Uses Oxford Dictionary API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E06-2/node-oxford-dictionary-blackslate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/E06-2/node-oxford-dictionary-blackslate/issues"
+  },
+  "homepage": "https://github.com/E06-2/node-oxford-dictionary-blackslate#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0"
+  }
+}
